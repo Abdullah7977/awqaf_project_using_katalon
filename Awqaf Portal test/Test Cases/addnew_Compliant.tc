@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addnew_Compliant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c9a573b-6963-4040-8fbc-ce4d01778c59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e03d3491-6c96-49c9-9020-353778ce7c24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>71e269fb-a22a-4cd7-91ee-1b70aeaae433</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>207b3fa7-c97c-49ee-bab7-df21437c7a0a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e03d3491-6c96-49c9-9020-353778ce7c24</id>
+      <masked>false</masked>
+      <name>inp_address</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>71e269fb-a22a-4cd7-91ee-1b70aeaae433</id>
+      <masked>false</masked>
+      <name>inp_phoneNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>207b3fa7-c97c-49ee-bab7-df21437c7a0a</id>
+      <masked>false</masked>
+      <name>text_area</name>
+   </variable>
+</TestCaseEntity>

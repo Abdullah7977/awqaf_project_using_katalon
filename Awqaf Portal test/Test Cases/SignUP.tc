@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignUP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2127c559-407d-4980-8232-d14debf45409</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60a67519-4c19-4a5b-b912-8be4318537c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bba146b6-cc46-49ed-913e-6243ee478de5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17485589-18cc-4348-af76-9932880c2df0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ahmed'</defaultValue>
+      <description></description>
+      <id>60a67519-4c19-4a5b-b912-8be4318537c8</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'abdo'</defaultValue>
+      <description></description>
+      <id>bba146b6-cc46-49ed-913e-6243ee478de5</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ahmed@user1245.com'</defaultValue>
+      <description></description>
+      <id>17485589-18cc-4348-af76-9932880c2df0</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

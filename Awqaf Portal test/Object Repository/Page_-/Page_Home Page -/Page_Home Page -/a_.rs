@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>ff36e5b6-cbae-4ded-a018-b7f9219179b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='navbar']/ul/li[4]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>847c4ea9-ac04-432f-8c46-bcf6e5b55975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Home/BoughtRequest</value>
+      <webElementGuid>293ce477-2f8b-4396-a55f-1c0bbb1a778b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>اضافة تمليك جديد</value>
+      <webElementGuid>e5bfd12d-6ea0-416b-8a3a-eb9eab5a4ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item menu-item-child&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item&quot;]/a[1]</value>
+      <webElementGuid>32338922-0953-40e0-8e3f-b65080b1c5b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='navbar']/ul/li[4]/ul/li[2]/a</value>
+      <webElementGuid>668fedd5-acc0-45d5-ae09-45900e49e3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'اضافة تمليك جديد')]</value>
+      <webElementGuid>e49dde1f-4321-4670-acec-f99a2c0f7b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='طلبات التمليك'])[1]/following::a[1]</value>
+      <webElementGuid>35f7ec13-3904-4d68-abfc-d4a2d9b992f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ميديا'])[1]/following::a[3]</value>
+      <webElementGuid>c044fb37-600b-468a-873b-25705be6247b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الشكاوي'])[1]/preceding::a[1]</value>
+      <webElementGuid>143b20c8-0d6e-4ca4-b9a9-10d85db3cd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اضافة شكوي جديده'])[1]/preceding::a[2]</value>
+      <webElementGuid>662e1e4b-e40b-4c38-ac9d-e103c21e2aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='اضافة تمليك جديد']/parent::*</value>
+      <webElementGuid>763cd31e-1f7f-415f-bbe2-05ff8a4ac25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Home/BoughtRequest')]</value>
+      <webElementGuid>00e121b4-0bc8-47bf-a697-e57617f75404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a</value>
+      <webElementGuid>620d8391-acc8-4e3f-beed-315fbee1ddd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Home/BoughtRequest' and (text() = 'اضافة تمليك جديد' or . = 'اضافة تمليك جديد')]</value>
+      <webElementGuid>4ea3d51d-2634-4925-bd98-7aaf7ab2a686</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
